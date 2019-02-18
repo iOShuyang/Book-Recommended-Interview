@@ -6,6 +6,16 @@
 <br>
 <br>
 
+### <div align=center>2019各种精选面试题</div>
+
+
+| 标题 | 原文地址 | 文章时间 |
+| --- | --- | --- |
+| 阿里腾讯头条美团等iOS面试总结  | [前往查看详情](https://mp.weixin.qq.com/s/38HBJWBvW4LaUVsuvCn7uw) | 2019.1.26 |
+
+
+### <div align=center>2018各种精选面试题</div>
+
 | 目录名称 | 面试题内容 | 编辑时间 | 地址 |
 | --- | --- | --- | --- |
 | iOS面试准备之思维导图 | 1.UI视图相关面试问题<br><br>2.Objective-C语言特性相关面试问题<br><br>3.Runtime相关面试问题<br><br>4.内存管理相关面试问题<br><br>5.Block相关面试问题<br><br>6.多线程相关面试问题<br><br>7.RunLoop相关面试问题<br><br>8.网络相关面试问题<br><br>9.设计模式相关面试问题<br><br>10.架构/框架相关面试问题<br><br>11.算法相关面试问题<br><br>12.第三方库相关面试问题 | 2018.05.05 | [前往查看详情](https://www.jianshu.com/p/a2c85b9f6a25)|
@@ -25,7 +35,6 @@
 | IOS面试（2018） | 1.非技术面试题<br><br>2.C面试题1<br><br>3.C面试题2<br><br>4.C面试题3<br><br>5.iOS笔试题01<br><br>6.iOS笔试题02<br><br>7.iOS笔试题03<br><br>8.iOS笔试题04<br><br>9.iOS面试题01-多线程网络<br><br>10.iOS面试题02-内存管理<br><br>11.iOS面试题03-Foundation<br><br>12.iOS面试题04-数据存储<br><br>13.iOS面试题05-UI 控件<br><br>14.iOS面试题06-应用程序<br><br>15.iOS面试题07-第三方框架<br><br>16.iOS面试题08-其他<br><br>17.iOS面试题09- 基础篇<br><br>18.iOS面试题10-UI 篇<br><br>19.iOS面试题11-原理篇<br><br>20.iOS面试题12-数据结构算法篇 <br><br>21.iOS面试题13-其他<br><br>22.道长的 Swift 面试题<br><br>23.卓同学的 Swift 面试题<br><br>24.4道过滤菜鸟的iOS面试题<br><br>25.知乎热门iOS 中级面试题<br><br>26.2018 iOS 面试题大全<br><br>27.2018知乎iOS面试指南| 2018.05.05 | [前往查看详情](https://www.jianshu.com/p/c1652efa89ce)|
 | iOS面试题 | 1.项目中如何进行调试和测试<br><br>2. 多线程：多线程种类有哪些？想要一个界面延缓显示，用NSOpration应该怎么做？<br><br>3. 数据持久化：都用哪些方法，用到SQLite了么，项目中用到了哪些？<br><br>4. 看过和引用过哪些优秀的第三方库，自己是如何进行封装小部件 <br><br>5.堆栈队列的区别<br><br>6.http和https的区别<br><br>7.runloop：是什么，在项目中做了哪些，几个model，分别是什么，Timer的问题原因，解决方案？<br><br>8.数组和链表的区别<br><br>9.iOS工作模式有？说一下KVO，NSNotification和KVO区别<br><br>10.c++引用和指针区别 | 2018.09.29 | [前往查看详情](https://www.jianshu.com/p/ddf09b5e176c)|
 | # Swift学习 # 简单面试题 | 1.什么是函数式编程？<br><br>2.swift相对于OC有哪些优点？<br><br>3.什么是泛型,swift在哪些地方使用了泛型？<br><br>4.defer、guard的作用？<br><br>5.swift语法糖 ？！的本质（实现原理）<br><br>6.举例swift中模式匹配的作用？<br><br>7.swift中closure与OC中block的区别？<br><br>8.什么是capture list，举例说明用处？<br><br>9.swift中private与fileprivate的区别？<br><br>10.Set 独有的方法有哪些？<br><br>11.实现一个 min 函数，返回两个元素较小的元素<br><br>12.map、filter、reduce 的作用<br><br>13.map 与 flatmap 的区别<br><br>14.什么是 copy on write<br><br>15.如何获取当前代码的函数名和行号<br><br>16.如何声明一个只能被类 conform 的 protocol<br><br>17.String 与 NSString 的关系与区别<br><br>18.<br><br>19.<br><br>20.如何截取 String 的某段字符串<br><br>21.throws 和 rethrows 的用法与作用<br><br>22.try？ 和 try！是什么意思<br><br>23.associatedtype 的作用<br><br>24.public 和 open 的区别<br><br>25.声明一个只有一个参数没有返回值闭包的别名<br><br>26.Self 的使用场景<br><br>27.dynamic 的作用<br><br>28.什么时候使用 @objc<br><br>29.Optional（可选型） 是用什么实现的<br><br>30.如何自定义下标获取<br><br>未完待续...| 2018.05.05 | [前往查看详情](http://www.cocoachina.com/ios/20181210/25763.html)|
-
 
 
 
