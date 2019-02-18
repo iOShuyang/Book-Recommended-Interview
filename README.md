@@ -9,9 +9,9 @@
 ### <div align=center>2019各种精选面试题</div>
 
 
-| 标题 | 原文地址 | 文章时间 |
-| --- | --- | --- |
-| 阿里腾讯头条美团等iOS面试总结  | [前往查看详情](https://mp.weixin.qq.com/s/38HBJWBvW4LaUVsuvCn7uw) | 2019.1.26 |
+| 标题 | 原文地址 | 文章时间 | 查看时间 |
+| --- | --- | --- | --- |
+| 阿里腾讯头条美团等iOS面试总结  | [前往查看详情](https://mp.weixin.qq.com/s/38HBJWBvW4LaUVsuvCn7uw) | 2019.1.26 | 2019-2-18 |
 
 
 ### <div align=center>2018各种精选面试题</div>
