@@ -17,7 +17,7 @@
 | 大厂iOS面试题——备战2019 | [前往查看详情](https://www.jianshu.com/p/7b796b4857a4?tdsourcetag=s_pcqq_aiomsg) | 2018.12.19 | 2019-04-08 |
 | iOS面试题 - 一个低调的iOS开发 | [前往查看详情](https://www.cnblogs.com/ioshe/p/5481445.html) | 2019.3.1 | 2019-04-08 |
 | 一篇很全面的IOS面试题（上） | [前往查看详情](https://juejin.im/post/5cb6b912e51d456e5e035f1a) | 2019.4.1 7 | 2019-04-19 |
-| iOS面试题 - 一个低调的iOS开发 | [前往查看详情](https://www.cnblogs.com/ioshe/p/5481445.html) | 2019.4.1 7 | 2019-04-19 |
+| 一篇很全面的IOS面试题（下） | [前往查看详情](https://juejin.im/post/5cb8097ce51d456e55623b1a) | 2019.4.1 7 | 2019-04-19 |
 
 
 
