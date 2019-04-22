@@ -18,8 +18,8 @@
 | iOS面试题 - 一个低调的iOS开发 | [前往查看详情](https://www.cnblogs.com/ioshe/p/5481445.html) | 2019.3.1 | 2019-04-08 |
 | 一篇很全面的IOS面试题（上） | [前往查看详情](https://juejin.im/post/5cb6b912e51d456e5e035f1a) | 2019.4.1 7 | 2019-04-19 |
 | 一篇很全面的IOS面试题（下） | [前往查看详情](https://juejin.im/post/5cb8097ce51d456e55623b1a) | 2019.4.1 7 | 2019-04-19 |
-
-
+| iOS面试珠玑 | [前往查看详情](https://juejin.im/post/5b03936a6fb9a07ac162bfe0) | 2018.5.31 | 2019-04-22 |
+| 我的同事金司机出的 5 道 iOS 多线程“面试题” | [前往查看详情](https://juejin.im/post/5a9aa633518825556a71d9f3) | 2018.3.03 | 2019-04-22 |
 
 
 ### <div align=center>2018各种精选面试题</div>
