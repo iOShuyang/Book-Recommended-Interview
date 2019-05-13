@@ -23,6 +23,8 @@
 | 中高级iOS大厂面试宝典，拿到offer率80%，金三银四将是你的新起点 | [前往查看详情](https://www.jianshu.com/p/0ae79e7d7b93) | 2019.2.15 | 2019-04-24 |
 | Runtime经典面试题(附答案) | [前往查看详情](https://juejin.im/post/5cbc7ca6e51d456e442ff347) | 2019.4.21 | 2019-04-26 |
 | 2019年，iOS大厂面试题持续更新（附答案） | [前往查看详情](https://www.jianshu.com/p/c4ec36af8dad) | 2019.1.26 | 2019-04-26 |
+| 2019 全方位直击iOS面试 | [前往查看详情](https://www.jianshu.com/p/5c662d7e08a8) | 2019.4.02 | 2019-05-13 |
+| 2019 iOS 面试题大全(补充完整版) | [前往查看详情](https://www.jianshu.com/p/d884f3040fda) | 2018.11.15 | 2019-05-13 |
 
 ### <div align=center>2018各种精选面试题</div>
 
