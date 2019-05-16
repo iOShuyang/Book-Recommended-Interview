@@ -25,6 +25,7 @@
 | 2019年，iOS大厂面试题持续更新（附答案） | [前往查看详情](https://www.jianshu.com/p/c4ec36af8dad) | 2019.1.26 | 2019-04-26 |
 | 2019 全方位直击iOS面试 | [前往查看详情](https://www.jianshu.com/p/5c662d7e08a8) | 2019.4.02 | 2019-05-13 |
 | 2019 iOS 面试题大全(补充完整版) | [前往查看详情](https://www.jianshu.com/p/d884f3040fda) | 2018.11.15 | 2019-05-13 |
+| iOS 开发者 2019 面试总结 | [前往查看详情](http://www.cocoachina.com/ios/20190426/26880.html) | 2019.4.26 | 2019-05-16 |
 
 ### <div align=center>2018各种精选面试题</div>
 
