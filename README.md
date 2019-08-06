@@ -28,6 +28,9 @@
 | iOS 开发者 2019 面试总结 | [前往查看详情](http://www.cocoachina.com/ios/20190426/26880.html) | 2019.4.26 | 2019-05-16 |
 | 百度/阿里/网易 iOS 面经（已入职） | [前往查看详情](https://www.nowcoder.com/discuss/21022) | 2017.2.16 | 2019-06-10 |
 | 大三iOSer春招总结(腾讯蚂蚁头条京东网易) | [前往查看详情](http://nathanliuyolo.com/2018/05/11/大三iOSer春招总结-腾讯蚂蚁头条京东网易/) | 2018.5.11 | 2019-06-10 |
+| iOS面试题大全-点亮你iOS技能树 | [前往查看详情](https://www.jianshu.com/p/403ee06a584e) | 2019.4.10 | 2019-08-06 |
+| iOS 面试题整理 | [前往查看详情](http://www.cocoachina.com/articles/28103) | 2019.7.24 | 2019-08-06 |
+| 2019年年初iOS招人心得笔记（附面试题） | [前往查看详情](http://www.cocoachina.com/cms/wap.php?action=article&id=26253) | 2019.1.28 | 2019-08-06 |
 
 
 ### <div align=center>2018各种精选面试题</div>
