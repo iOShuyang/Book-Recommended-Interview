@@ -9,29 +9,36 @@
 ### <div align=center>2019各种精选面试题</div>
 
 
-| 标题 | 原文地址 | 文章时间 | 查看时间 |
+| 标题 | 原文地址 | 文章时间 | 收录时间 |
 | --- | --- | --- | --- |
-| 阿里腾讯头条美团等iOS面试总结  | [前往查看详情](https://mp.weixin.qq.com/s/38HBJWBvW4LaUVsuvCn7uw) | 2019.1.26 | 2019-2-18 |
-| 12个iOS技术面试题及答案总结 | [前往查看详情](http://www.cocoachina.com/ios/20190306/26484.html) | 2019.3.6 | 2019-04-08 |
-| 2019最新iOS面试题及答案 | [前往查看详情](https://www.jianshu.com/p/b0c98dbf0639) | 2018.07.17 | 2019-04-08 |
-| 大厂iOS面试题——备战2019 | [前往查看详情](https://www.jianshu.com/p/7b796b4857a4?tdsourcetag=s_pcqq_aiomsg) | 2018.12.19 | 2019-04-08 |
-| iOS面试题 - 一个低调的iOS开发 | [前往查看详情](https://www.cnblogs.com/ioshe/p/5481445.html) | 2019.3.1 | 2019-04-08 |
-| 一篇很全面的IOS面试题（上） | [前往查看详情](https://juejin.im/post/5cb6b912e51d456e5e035f1a) | 2019.4.1 7 | 2019-04-19 |
-| 一篇很全面的IOS面试题（下） | [前往查看详情](https://juejin.im/post/5cb8097ce51d456e55623b1a) | 2019.4.1 7 | 2019-04-19 |
-| iOS面试珠玑 | [前往查看详情](https://juejin.im/post/5b03936a6fb9a07ac162bfe0) | 2018.5.31 | 2019-04-22 |
-| 我的同事金司机出的 5 道 iOS 多线程“面试题” | [前往查看详情](https://juejin.im/post/5a9aa633518825556a71d9f3) | 2018.3.03 | 2019-04-22 |
-| 中高级iOS大厂面试宝典，拿到offer率80%，金三银四将是你的新起点 | [前往查看详情](https://www.jianshu.com/p/0ae79e7d7b93) | 2019.2.15 | 2019-04-24 |
-| Runtime经典面试题(附答案) | [前往查看详情](https://juejin.im/post/5cbc7ca6e51d456e442ff347) | 2019.4.21 | 2019-04-26 |
-| 2019年，iOS大厂面试题持续更新（附答案） | [前往查看详情](https://www.jianshu.com/p/c4ec36af8dad) | 2019.1.26 | 2019-04-26 |
-| 2019 全方位直击iOS面试 | [前往查看详情](https://www.jianshu.com/p/5c662d7e08a8) | 2019.4.02 | 2019-05-13 |
-| 2019 iOS 面试题大全(补充完整版) | [前往查看详情](https://www.jianshu.com/p/d884f3040fda) | 2018.11.15 | 2019-05-13 |
-| iOS 开发者 2019 面试总结 | [前往查看详情](http://www.cocoachina.com/ios/20190426/26880.html) | 2019.4.26 | 2019-05-16 |
-| 百度/阿里/网易 iOS 面经（已入职） | [前往查看详情](https://www.nowcoder.com/discuss/21022) | 2017.2.16 | 2019-06-10 |
-| 大三iOSer春招总结(腾讯蚂蚁头条京东网易) | [前往查看详情](http://nathanliuyolo.com/2018/05/11/大三iOSer春招总结-腾讯蚂蚁头条京东网易/) | 2018.5.11 | 2019-06-10 |
-| iOS面试题大全-点亮你iOS技能树 | [前往查看详情](https://www.jianshu.com/p/403ee06a584e) | 2019.4.10 | 2019-08-06 |
-| iOS 面试题整理 | [前往查看详情](http://www.cocoachina.com/articles/28103) | 2019.7.24 | 2019-08-06 |
-| 2019年年初iOS招人心得笔记（附面试题） | [前往查看详情](http://www.cocoachina.com/cms/wap.php?action=article&id=26253) | 2019.1.28 | 2019-08-06 |
+| 阿里腾讯头条美团等iOS面试总结  | [前往查看详情](https://mp.weixin.qq.com/s/38HBJWBvW4LaUVsuvCn7uw) | 2019.1.26 | 2019.2.18 |
+| 12个iOS技术面试题及答案总结 | [前往查看详情](http://www.cocoachina.com/ios/20190306/26484.html) | 2019.3.6 | 2019.04.08 |
+| 2019最新iOS面试题及答案 | [前往查看详情](https://www.jianshu.com/p/b0c98dbf0639) | 2018.07.17 | 2019.04.08 |
+| 大厂iOS面试题——备战2019 | [前往查看详情](https://www.jianshu.com/p/7b796b4857a4?tdsourcetag=s_pcqq_aiomsg) | 2018.12.19 | 2019.04.08 |
+| iOS面试题 - 一个低调的iOS开发 | [前往查看详情](https://www.cnblogs.com/ioshe/p/5481445.html) | 2019.3.1 | 2019.04.08 |
+| 一篇很全面的IOS面试题（上） | [前往查看详情](https://juejin.im/post/5cb6b912e51d456e5e035f1a) | 2019.4.1 7 | 2019.04.19 |
+| 一篇很全面的IOS面试题（下） | [前往查看详情](https://juejin.im/post/5cb8097ce51d456e55623b1a) | 2019.4.1 7 | 2019.04.19 |
+| iOS面试珠玑 | [前往查看详情](https://juejin.im/post/5b03936a6fb9a07ac162bfe0) | 2018.5.31 | 2019.04.22 |
+| 我的同事金司机出的 5 道 iOS 多线程“面试题” | [前往查看详情](https://juejin.im/post/5a9aa633518825556a71d9f3) | 2018.3.03 | 2019.04.22 |
+| 中高级iOS大厂面试宝典，拿到offer率80%，金三银四将是你的新起点 | [前往查看详情](https://www.jianshu.com/p/0ae79e7d7b93) | 2019.2.15 | 2019.04.24 |
+| Runtime经典面试题(附答案) | [前往查看详情](https://juejin.im/post/5cbc7ca6e51d456e442ff347) | 2019.4.21 | 2019.04.26 |
+| 2019年，iOS大厂面试题持续更新（附答案） | [前往查看详情](https://www.jianshu.com/p/95148525dfcc) | 2019.1.26 | 2019.04.26 |
+| 2019 全方位直击iOS面试 | [前往查看详情](https://www.jianshu.com/p/5c662d7e08a8) | 2019.4.02 | 2019.05.13 |
+| 2019 iOS 面试题大全(补充完整版) | [前往查看详情](https://www.jianshu.com/p/d884f3040fda) | 2018.11.15 | 2019.05.13 |
+| iOS 开发者 2019 面试总结 | [前往查看详情](http://www.cocoachina.com/ios/20190426/26880.html) | 2019.4.26 | 2019.05.16 |
+| 百度/阿里/网易 iOS 面经（已入职） | [前往查看详情](https://www.nowcoder.com/discuss/21022) | 2017.2.16 | 2019.06.10 |
+| 大三iOSer春招总结(腾讯蚂蚁头条京东网易) | [前往查看详情](http://nathanliuyolo.com/2018/05/11/大三iOSer春招总结-腾讯蚂蚁头条京东网易/) | 2018.5.11 | 2019.06.10 |
+| iOS面试题大全-点亮你iOS技能树 | [前往查看详情](https://www.jianshu.com/p/403ee06a584e) | 2019.4.10 | 2019.08.06 |
+| iOS 面试题整理 | [前往查看详情](http://www.cocoachina.com/articles/28103) | 2019.7.24 | 2019.08.06 |
+| 2019年年初iOS招人心得笔记（附面试题） | [前往查看详情](http://www.cocoachina.com/cms/wap.php?action=article&id=26253) | 2019.1.28 | 2019.08.06 |
+| iOS面试题 | [前往查看详情](https://wangmeng.gitbooks.io/ios-note/content/interview_1.html) |  | 2019.09.03 |
+| 招聘一个靠谱的iOS | [前往查看详情](https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/01《招聘一个靠谱的iOS》面试题参考答案/《招聘一个靠谱的iOS》面试题参考答案（上）.md) |  | 2019.09.03 |
 
+
+<br>
+<br>
+<br>
+<br>
 
 ### <div align=center>2018各种精选面试题</div>
 
