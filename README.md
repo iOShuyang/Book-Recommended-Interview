@@ -11,6 +11,7 @@
 
 | 标题 | 原文地址 | 文章时间 | 收录时间 |
 | --- | --- | --- | --- |
+| 2019年iOS面试反思总结【后续会持续总结更新】  | [前往查看详情](https://juejin.im/post/5d7f35976fb9a06b20059680) | 👍👍👍👍👍 | 2019.09.16 |
 | 阿里腾讯头条美团等iOS面试总结  | [前往查看详情](https://mp.weixin.qq.com/s/38HBJWBvW4LaUVsuvCn7uw) | 2019.1.26 | 2019.2.18 |
 | 12个iOS技术面试题及答案总结 | [前往查看详情](http://www.cocoachina.com/ios/20190306/26484.html) | 2019.3.6 | 2019.04.08 |
 | 2019最新iOS面试题及答案 | [前往查看详情](https://www.jianshu.com/p/b0c98dbf0639) | 2018.07.17 | 2019.04.08 |
@@ -33,7 +34,9 @@
 | 2019年年初iOS招人心得笔记（附面试题） | [前往查看详情](http://www.cocoachina.com/cms/wap.php?action=article&id=26253) | 2019.1.28 | 2019.08.06 |
 | iOS面试题 | [前往查看详情](https://wangmeng.gitbooks.io/ios-note/content/interview_1.html) |  | 2019.09.03 |
 | 招聘一个靠谱的iOS | [前往查看详情](https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/01《招聘一个靠谱的iOS》面试题参考答案/《招聘一个靠谱的iOS》面试题参考答案（上）.md) |  | 2019.09.03 |
-
+| iOS 面试注意事项 | [前往查看详情](https://www.meiwen.com.cn/subject/vttxyttx.html) |  | 2018.07.19 |
+| Swift 基本技术点（面试） | [前往查看详情](https://www.jianshu.com/p/ef6406d6f3ad) |  | 2019.08.06 |
+| iOS - 基础知识总结（OC版） 面试必看 再不看就要用swift了 | [前往查看详情](https://www.cnblogs.com/baitongtong/p/5869004.html) |  | 2019.00.00 |
 
 <br>
 <br>
