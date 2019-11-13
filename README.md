@@ -11,7 +11,7 @@
 
 | 标题 | 原文地址 | 文章时间 | 收录时间 |
 | --- | --- | --- | --- |
-| 2019年iOS面试反思总结【后续会持续总结更新】  | [前往查看详情](https://juejin.im/post/5d7f35976fb9a06b20059680) | 👍👍👍👍👍 | 2019.09.16 |
+| 2019年iOS面试反思总结【后续会持续总结更新】  | [前往查看详情](https://juejin.im/post/5d7f35976fb9a06b20059680) | 👍👍👍👍👍（本人总结） | 2019.09.16 |
 | 阿里腾讯头条美团等iOS面试总结  | [前往查看详情](https://mp.weixin.qq.com/s/38HBJWBvW4LaUVsuvCn7uw) | 2019.1.26 | 2019.2.18 |
 | 12个iOS技术面试题及答案总结 | [前往查看详情](http://www.cocoachina.com/ios/20190306/26484.html) | 2019.3.6 | 2019.04.08 |
 | 2019最新iOS面试题及答案 | [前往查看详情](https://www.jianshu.com/p/b0c98dbf0639) | 2018.07.17 | 2019.04.08 |
@@ -38,6 +38,7 @@
 | Swift 基本技术点（面试） | [前往查看详情](https://www.jianshu.com/p/ef6406d6f3ad) |  | 2019.08.06 |
 | iOS - 基础知识总结（OC版） 面试必看 再不看就要用swift了 | [前往查看详情](https://www.cnblogs.com/baitongtong/p/5869004.html) |  | 2019.00.00 |
 | 面试总结(一) | [前往查看详情](https://maojianxiang.github.io) | 2018.06.04 | 2019.00.00 |
+| 出一套 iOS 高级面试题 | [前往查看详情](https://juejin.im/post/5b56155e6fb9a04f8b78619b) | 2018.07.24 | 2019.00.00 |
 
 <br>
 <br>
