@@ -39,7 +39,7 @@
 | iOS - 基础知识总结（OC版） 面试必看 再不看就要用swift了 | [前往查看详情](https://www.cnblogs.com/baitongtong/p/5869004.html) |  | 2019.00.00 |
 | 面试总结(一) | [前往查看详情](https://maojianxiang.github.io) | 2018.06.04 | 2019.00.00 |
 | 出一套 iOS 高级面试题 | [前往查看详情](https://juejin.im/post/5b56155e6fb9a04f8b78619b) | 2018.07.24 | 2019.00.00 |
-
+| 给iOS中高级求职者的一份面试题解答 | [前往查看详情](https://juejin.im/post/5d8e150d518825097013297d) | 2019.09.29 | 2019.11.29 |
 <br>
 <br>
 <br>
