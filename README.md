@@ -36,10 +36,12 @@
 | 招聘一个靠谱的iOS | [前往查看详情](https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/01《招聘一个靠谱的iOS》面试题参考答案/《招聘一个靠谱的iOS》面试题参考答案（上）.md) |  | 2019.09.03 |
 | iOS 面试注意事项 | [前往查看详情](https://www.meiwen.com.cn/subject/vttxyttx.html) |  | 2018.07.19 |
 | Swift 基本技术点（面试） | [前往查看详情](https://www.jianshu.com/p/ef6406d6f3ad) |  | 2019.08.06 |
-| iOS - 基础知识总结（OC版） 面试必看 再不看就要用swift了 | [前往查看详情](https://www.cnblogs.com/baitongtong/p/5869004.html) |  | 2019.00.00 |
-| 面试总结(一) | [前往查看详情](https://maojianxiang.github.io) | 2018.06.04 | 2019.00.00 |
-| 出一套 iOS 高级面试题 | [前往查看详情](https://juejin.im/post/5b56155e6fb9a04f8b78619b) | 2018.07.24 | 2019.00.00 |
+| iOS - 基础知识总结（OC版） 面试必看 再不看就要用swift了 | [前往查看详情](https://www.cnblogs.com/baitongtong/p/5869004.html) |  | 2019.09.06 |
+| 面试总结(一) | [前往查看详情](https://maojianxiang.github.io) | 2018.06.04 | 2019.10.06 |
+| 出一套 iOS 高级面试题 | [前往查看详情](https://juejin.im/post/5b56155e6fb9a04f8b78619b) | 2018.07.24 | 2019.11.06 |
 | 给iOS中高级求职者的一份面试题解答 | [前往查看详情](https://juejin.im/post/5d8e150d518825097013297d) | 2019.09.29 | 2019.11.29 |
+| 萌新iOS面试官迷你厂第一视角 | [前往查看详情](https://juejin.im/post/5e08b35ff265da33dd2f6da4) | 2019.12.29 | 2020.01.07 |
+
 <br>
 <br>
 <br>
