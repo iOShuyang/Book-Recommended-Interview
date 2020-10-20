@@ -41,7 +41,7 @@
 | 做了快5年iOS，这份面试题让我从15K变成了30K | [前往查看详情](https://www.jianshu.com/p/1af57f250976) | 2020.06.20| 2020.08.27 |
 | iOS开发：我的初级到中级的晋级之路 | [前往查看详情](https://github.com/SunshineBrother/JHBlog) | 2020.00.00| 2020.09.02 |
 | 2020-逻辑教育iOS面试题集合 | [前往查看详情](https://github.com/LGCooci/LGiOSQuestions) | 2020.00.00| 2020.09.24 |
-
+| iOS-InterviewQuestion-collection | [前往查看详情](https://github.com/liberalisman/iOS-InterviewQuestion-collection) | 2020.00.00| 2020.10.20 |
 <br>
 <br>
 <br>
